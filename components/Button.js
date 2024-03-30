@@ -10,7 +10,7 @@ export default function Button({
     return (
       <View style={[styles.buttonContainer, { borderWidth: 4, borderColor: "#ffd33d", borderRadius: 18 }]}>
         <Pressable
-          style={styles.button}
+          style={[styles.button, { backgroundColor: "#fff" }]}
           onPress={onPress}
         >
           <FontAwesome
