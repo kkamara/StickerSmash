@@ -18,6 +18,8 @@ A ReactJS Native Expo mobile app.
 
 * [NodeJS](https://nodejs.org/en)
 
+* [ReactJS Native Setup Virtual Mobile App](https://reactnative.dev/docs/environment-setup?guide=native&platform=android)
+
 ```bash
 npm install
 ```
